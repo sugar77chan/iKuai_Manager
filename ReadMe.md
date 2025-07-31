@@ -21,7 +21,7 @@ iKuai 3.7.20
 克隆代码库,运行main.py文件
 
 ```shell
-git clone https://your-repo-url.git
+git clone https://github.com/sugar7chan/iKuai_Manager.git
 cd ikuai_manager
 
 ```
